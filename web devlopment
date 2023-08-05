@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="page">
+    <h1>HTML AND CSS</h1>
+    <h2>Boot camp</h2>
+    <section>
+      <h2>My skills</h2>
+      <ul class="skills">
+        <li>web development</li>
+        <li>programming</li>
+        <li>Data analyst</li>
+        
+      </ul>
+    
+    </section>
+  </div>
+</body>
+</html>
